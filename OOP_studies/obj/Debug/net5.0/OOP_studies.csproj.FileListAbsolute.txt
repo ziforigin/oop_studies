@@ -1,0 +1,16 @@
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\bin\Debug\net5.0\OOP_studies.exe
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\bin\Debug\net5.0\OOP_studies.deps.json
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\bin\Debug\net5.0\OOP_studies.runtimeconfig.json
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\bin\Debug\net5.0\OOP_studies.runtimeconfig.dev.json
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\bin\Debug\net5.0\OOP_studies.dll
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\bin\Debug\net5.0\ref\OOP_studies.dll
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\bin\Debug\net5.0\OOP_studies.pdb
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\OOP_studies.csprojAssemblyReference.cache
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\OOP_studies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\OOP_studies.AssemblyInfoInputs.cache
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\OOP_studies.AssemblyInfo.cs
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\OOP_studies.csproj.CoreCompileInputs.cache
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\OOP_studies.dll
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\ref\OOP_studies.dll
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\OOP_studies.pdb
+C:\Users\anna.poilova\RiderProjects\OOP\OOP_studies\obj\Debug\net5.0\OOP_studies.genruntimeconfig.cache
